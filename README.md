@@ -13,4 +13,4 @@ My name is Carlos Vinícius, and I have been working in IT since 2013 in technic
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosviniciusjs&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosviniciusjs&size_weight=0.5&count_weight=0.5)
