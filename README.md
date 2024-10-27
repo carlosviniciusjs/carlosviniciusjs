@@ -1,9 +1,6 @@
 ## Hi there 👋
 My name is Carlos Vinícius, and I have been working in IT since 2013 in technical support. I have been studying programming since 2017, when I started my degree in Information Systems. I am currently pursuing a postgraduate degree in Full Stack Development and looking for my first job as a web developer.
 
-[![Email](https://github.com/carlosviniciusjs/carlosviniciusjs/blob/img/Danielle%20Designer.png?raw=true)](https://carlosviniciusjs.github.io/DanielleDesigner/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://carlosviniciusjs.github.io/siteprefeitura/)
-
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.vinicius2012@gmail.com)
 [![Linkedin](https://github.com/carlosviniciusjs/carlosviniciusjs/blob/img/Prefeitura%20de%20goian%C3%A9sia.png?raw=true)](linkedin.com/in/carlosviniciusjs)
 
@@ -17,3 +14,7 @@ My name is Carlos Vinícius, and I have been working in IT since 2013 in technic
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosviniciusjs&size_weight=0.5&count_weight=0.5)
+
+
+[![Projeto Danielle Designer](https://github.com/carlosviniciusjs/carlosviniciusjs/blob/img/Danielle%20Designer.png?raw=true)](https://carlosviniciusjs.github.io/DanielleDesigner/)
+[![Projeto Site Prefeitura de Goianésia](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://carlosviniciusjs.github.io/siteprefeitura/)
