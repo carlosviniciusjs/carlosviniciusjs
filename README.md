@@ -14,8 +14,8 @@ My name is Carlos Vinícius, and I have been working in IT since 2013 in technic
 
 
 ## PROJECTS
-<a href="https://carlosviniciusjs.github.io/danielleDesigner/"><img width="300" height="200" src="https://github.com/carlosviniciusjs/carlosviniciusjs/blob/img/Danielle%20Designer.png?raw=true"/></a>
-<a href="https://carlosviniciusjs.github.io/siteprefeitura/"><img width="300" height="200" src="https://github.com/carlosviniciusjs/carlosviniciusjs/blob/img/Prefeitura%20de%20goian%C3%A9sia.png?raw=true"/></a>
+<a href="https://carlosviniciusjs.github.io/danielleDesigner/" target="_blank"><img width="300" height="200" src="https://github.com/carlosviniciusjs/carlosviniciusjs/blob/img/Danielle%20Designer.png?raw=true"/></a>
+<a href="https://carlosviniciusjs.github.io/siteprefeitura/" target="_blank"><img width="300" height="200" src="https://github.com/carlosviniciusjs/carlosviniciusjs/blob/img/Prefeitura%20de%20goian%C3%A9sia.png?raw=true"/></a>
 
 
 
