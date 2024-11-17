@@ -1,5 +1,7 @@
-## Hi there 👋
-My name is Carlos Vinícius, and I have been working in IT since 2013 in technical support. I have been studying programming since 2017, when I started my degree in Information Systems. I am currently pursuing a postgraduate degree in Full Stack Development and looking for my first job as a web developer.
+<img width="20" height="13" src="https://raw.githubusercontent.com/carlosviniciusjs/carlosviniciusjs/refs/heads/img/us.png"/> My name is Carlos Vinícius, and I have been working in IT since 2013 in technical support. I have been studying programming since 2017, when I started my degree in Information Systems. I am currently pursuing a postgraduate degree in Full Stack Development and looking for my first job as a web developer.
+<p><p><p>
+<img width="20" height="13" src="https://raw.githubusercontent.com/carlosviniciusjs/carlosviniciusjs/refs/heads/img/BR.png"/> Meu nome é Carlos Vinícius, e trabalho com TI desde 2013, atuando no suporte técnico. Estudo programação desde 2017, quando iniciei a graduação em Sistemas de Informação. Atualmente, estou cursando uma pós-graduação em Desenvolvimento Full Stack e estou em busca do meu primeiro emprego como desenvolvedor web.
+</p></p></p>
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.vinicius2012@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/carlosviniciusjs)
